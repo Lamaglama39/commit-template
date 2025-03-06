@@ -1,0 +1,70 @@
+# ==== preFix ====
+# Feat: 新機能
+# Fix: バグ修正
+# Docs: ドキュメントのみの変更
+# Style: コードの意味に影響しない変更（空白、フォーマット、セミコロンの欠落など）
+# Refactor: バグ修正も機能追加もしないコード変更
+# Perf: パフォーマンスを改善するコード変更
+# Test: 不足しているテストの追加または既存テストの修正
+# Chore: ビルドプロセスや補助ツール、ドキュメント生成などのライブラリの変更
+
+# ==== gitmoji ====
+# ------ 汎用 ------
+# 🎉 :tada: 初コミット (Init)
+# ✨ :sparkles: 新規機能実装 (Feat)
+# ⚡️ :zap: 既存機能に新機能追加 (Feat)
+# 🔥 :fire: 不要機能削除 (Refactor)
+# 🩹 :adhesive_bandage: 軽微な不具合修正 (Fix)
+# 🐛 :bug: バグ修正 (Fix)
+# 🚑️ :ambulance: 緊急修正 (Fix)
+# 🚧 :construction: 作業中 (WIP)
+# 🚚 :truck: ファイル名/パス変更 (Refactor)
+# 🏷️ :label: 型変更 (Refactor)
+# ♻️ :recycle: リファクタリング (Refactor)
+# 🎨 :art: コード構造や見た目の変更 (Style)
+# 🔧 :wrench: 構成ファイル修正 (Chore)
+# 🔨 :hammer: スクリプト関連の修正 (Chore)
+# 🙈 :see_no_evil: gitignore変更 (Chore)
+# 📝 :memo: 文章/ドキュメント修正 (Docs)
+
+# ------ フロントエンド ------
+# 💄 :lipstick: UI/スタイル変更 (Style)
+# 💫 :dizzy: アニメーションの修正 (Style)
+# 📱 :iphone: レスポンシブデザインの修正 (Style)
+
+# ------ バックエンド ------
+# 🗃️ :card_file_box: データベース関連の修正 (Refactor)
+
+# ------ インフラ ------
+# 🏗️ :building_construction: アーキテクチャ修正 (Refactor)
+# 🧱 :bricks: インフラ関連の修正 (Chore)
+
+# ------ リリース ------
+# 🚀 :rocket: デプロイ (Chore)
+# 🔖 :bookmark: リリース (Chore)
+# 🥚 :egg: イースターエッグ (Feat)
+
+# ------ その他対応 ------
+# ⏪️ :rewind: 以前の変更の戻し (Revert)
+# 💥 :boom: 重要な変更 (BREAKING CHANGE)
+# 🔒 :lock: セキュリティ関連の修正 (Fix)
+# 📦️ :package: コンパイルされたファイル/パッケージの修正 (Chore)
+# 📄 :page_facing_up: ライセンス変更 (Chore)
+
+# ------ ユーモア ------
+# 💩 :poop: クソコード (WIP)
+# 🍻 :beers: 飲酒コード (WIP)
+
+# ==== format ====
+# :emoji: Subject
+#
+# Commit body...
+
+# ==== rule ====
+# 1. タイトルと本文の間は1行空ける
+# 2. タイトルは英字基準で50文字以内
+# 3. タイトルの最初の文字を大文字にする
+# 4. タイトルの末尾はピリオド禁止
+# 5. タイトルは命令文にする
+# 6. 本文は英字基準で72文字ごとに改行する
+# 7. 本文では、何を、なぜ、どのように、を説明する
