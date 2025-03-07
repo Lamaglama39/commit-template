@@ -1,4 +1,7 @@
-# ==== preFix ====
+:emoji: prefix: Subject
+
+Commit body...
+# ==== prefix ====
 # Feat: 新機能
 # Fix: バグ修正
 # Docs: ドキュメントのみの変更
@@ -54,11 +57,6 @@
 # ------ ユーモア ------
 # 💩 :poop: クソコード (WIP)
 # 🍻 :beers: 飲酒コード (WIP)
-
-# ==== format ====
-# :emoji: Subject
-#
-# Commit body...
 
 # ==== rule ====
 # 1. タイトルと本文の間は1行空ける
